@@ -40,7 +40,5 @@ public class Main {
             System.out.printf("Total: $%.2f%n", value - discountAmount);
             System.out.println();
         });
-
-
     }
 }
